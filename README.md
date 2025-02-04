@@ -1,2 +1,2 @@
 # Numpy
-Numpy
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. The predecessor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers.Powerful N-dimensional arrays Fast and versatile, the NumPy vectorization, indexing, and broadcasting concepts are the de-facto standards of array computing today 
